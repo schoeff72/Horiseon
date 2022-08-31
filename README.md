@@ -1,5 +1,8 @@
 # Horiseon
-Making the horiseon website meet accessibility standards with ada complient imiages and semantic tags
+
+![Alt text](/assets/images/Screen%20Shot%202022-08-31%20at%202.43.31%20PM.png?raw=true "Optional Title")
+Making the horiseon website meet accessibility 
+standards with ada complient imiages and semantic tags
 
 
 ## Usage
